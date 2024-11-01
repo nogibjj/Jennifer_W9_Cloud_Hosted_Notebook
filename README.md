@@ -7,7 +7,7 @@
 
 ## Google Collab Link
 
-https://drive.google.com/file/d/1c6_B0UT-frgB0B9p8g0ZmoxinOvXcZJ7/view?usp=sharing 
+https://colab.research.google.com/drive/1RPpa92U6NDhT4BobzogSmaoL6CYXfmxp?usp=sharing
 
 ## Project Introduction
 This project aims to set up and utilize a cloud-hosted Jupyter Notebook environment (i.e. Google Colab) to analyze a job application dataset published by the City of Los Angeles. The analysis involves data manipulation such as generating summary statistics and visualizing data to reveal trends in gender and ethnicity among job applicants. 
