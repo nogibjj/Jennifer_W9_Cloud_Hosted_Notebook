@@ -3,16 +3,13 @@
 [![Lint](https://github.com/Jenniferli6/Jennifer_Individual_Project_1/actions/workflows/lint.yml/badge.svg)](https://github.com/Jenniferli6/Jennifer_Individual_Project_1/actions/workflows/lint.yml)
 [![Test](https://github.com/Jenniferli6/Jennifer_Individual_Project_1/actions/workflows/test.yml/badge.svg)](https://github.com/Jenniferli6/Jennifer_Individual_Project_1/actions/workflows/test.yml)
 
+# Week 9 - Cloud-Hosted Notebook Data Manipulation 
 
-# Individual Project - LA Job Applicant Data Analysis 
-
-## Youtube video
-![alt text](image-3.png)
-https://youtu.be/C9W8ITegp7c
-
+**Google Collab Link**
+https://drive.google.com/file/d/1c6_B0UT-frgB0B9p8g0ZmoxinOvXcZJ7/view?usp=sharing 
 
 ## Project Introduction
-The main purpose of this project is to use data science tools such as Pandas and Polars to analyze the job application data in City of LA, by gender and ethnicity, including generating summary statistics and visualized chart.
+This project aims to set up and utilize a cloud-hosted Jupyter Notebook environment (i.e. Google Colab) to analyze a job application dataset published by the City of Los Angeles. The analysis involves data manipulation such as generating summary statistics and visualizing data to reveal trends in gender and ethnicity among job applicants. 
 
 ## Project Data Source
 The data used in this analysis comes from a dataset published by data.lacity.org on Data.Gov website, and the data version is as of September 15, 2023. You can find more information about data source via link here: https://catalog.data.gov/dataset/job-applicants-by-gender-and-ethnicity 
