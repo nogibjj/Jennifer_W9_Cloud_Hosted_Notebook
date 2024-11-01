@@ -1,11 +1,12 @@
-[![Install](https://github.com/Jenniferli6/Jennifer_Individual_Project_1/actions/workflows/install.yml/badge.svg)](https://github.com/Jenniferli6/Jennifer_Individual_Project_1/actions/workflows/install.yml)
-[![Format](https://github.com/Jenniferli6/Jennifer_Individual_Project_1/actions/workflows/format.yml/badge.svg)](https://github.com/Jenniferli6/Jennifer_Individual_Project_1/actions/workflows/format.yml)
-[![Lint](https://github.com/Jenniferli6/Jennifer_Individual_Project_1/actions/workflows/lint.yml/badge.svg)](https://github.com/Jenniferli6/Jennifer_Individual_Project_1/actions/workflows/lint.yml)
-[![Test](https://github.com/Jenniferli6/Jennifer_Individual_Project_1/actions/workflows/test.yml/badge.svg)](https://github.com/Jenniferli6/Jennifer_Individual_Project_1/actions/workflows/test.yml)
+[![Install](https://github.com/nogibjj/Jennifer_W9_Cloud_Hosted_Notebook/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Jennifer_W9_Cloud_Hosted_Notebook/actions/workflows/install.yml)
+[![Lint](https://github.com/nogibjj/Jennifer_W9_Cloud_Hosted_Notebook/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Jennifer_W9_Cloud_Hosted_Notebook/actions/workflows/lint.yml)
+[![Format](https://github.com/nogibjj/Jennifer_W9_Cloud_Hosted_Notebook/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Jennifer_W9_Cloud_Hosted_Notebook/actions/workflows/format.yml)
+[![Test](https://github.com/nogibjj/Jennifer_W9_Cloud_Hosted_Notebook/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Jennifer_W9_Cloud_Hosted_Notebook/actions/workflows/test.yml)
 
 # Week 9 - Cloud-Hosted Notebook Data Manipulation 
 
-**Google Collab Link**
+## Google Collab Link
+
 https://drive.google.com/file/d/1c6_B0UT-frgB0B9p8g0ZmoxinOvXcZJ7/view?usp=sharing 
 
 ## Project Introduction
